@@ -4,9 +4,9 @@ repo: nextcloud-uptime # The name of this repository
 
 sites:
   - name: My Nextcloud
-    url: https://dogleaf.org
-  - name: Google
-    url: https:/8.8.8.8
+    url: https://dogleaf.org  
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
     port: 80
     check: "tcp-ping"
     ipv6: true
