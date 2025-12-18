@@ -6,11 +6,7 @@ sites:
   - name: My Nextcloud
     url: https://dogleaf.org
   - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News  
-    url: https://news.ycombinator.com
+    url: https:/8.8.8.8
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     port: 80
