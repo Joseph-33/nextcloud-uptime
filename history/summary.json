@@ -1,22 +1,22 @@
 [
   {
     "name": "My Nextcloud",
-    "url": "https://dogleaf.org",
-    "icon": "https://icons.duckduckgo.com/ip3/dogleaf.org.ico",
+    "url": "dogleaf.org",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-nextcloud",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.51%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 1262,
     "timeDay": 1199,
     "timeWeek": 1262,
     "timeMonth": 1262,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2025-12-18": 5,
+      "2025-12-18": 13,
       "2025-12-17": 26
     }
   }
