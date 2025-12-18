@@ -7,8 +7,6 @@ sites:
     url: https://dogleaf.org
   - name: Google
     url: https:/8.8.8.8
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     port: 80
     check: "tcp-ping"
     ipv6: true
