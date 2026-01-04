@@ -6,7 +6,7 @@ sites:
   - name: My Nextcloud
     url: dogleaf.org  
     port: 80
-#    check: "tcp-ping"
+    check: "tcp-ping"
 #    with:
 #      stack: ipv6
 
