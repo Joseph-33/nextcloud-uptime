@@ -5,10 +5,9 @@ repo: nextcloud-uptime # The name of this repository
 sites:
   - name: My Nextcloud
     url: dogleaf.org  
-    port: 80
+    port: 443
     check: "tcp-ping"
-    with:
-      stack: ipv6
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
